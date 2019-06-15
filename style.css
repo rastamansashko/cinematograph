@@ -1,0 +1,24 @@
+body{
+	background: url("images/bg.jpg");
+	font: 14px Verdana;
+}
+
+header{
+	margin: 5px;
+	padding: 5px;
+	background: #fff59e url("images/bg-head.jpg") repeat-x top;
+	border: #A9D0F5 1px solid;
+	border-radius: 3px;
+	font: bold 20px Verdana;
+	color: white;
+}
+
+#content{
+	float: left; 
+	width: 75%; 
+	margin: 5px;
+	padding: 5px;
+	background: #fff59e url("images/bg-content.jpg") repeat-x top;
+	border: #A9D0F5 1px solid;
+	border-radius: 3px;	
+}			
